@@ -1,19 +1,96 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Semântica 
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Contato
+=======
+Felippe da Motta Raposo - Software Engineer |
+￼Rua: Padre Marchet, no14 | Zé Garoto, São Gonçalo. Rio de Janeiro | Fixo: (021)2606 - 7010 | Móvel: (021) 99863 - 1219 | raposo.felippe@gmail.com | Github: felippemr
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+
+Habilidades Principais ￼￼
+=======================
+- Documentação
+- Empreendedorismo
+- Python
+- Django
+- MySQL
+- Desenvolvimento
+- Integração de Sistemas
+- Sangue nos olhos
+- PostgreSQL
+- BDD
+- Suporte Técnico e Processual
+- Autodidata 
+- Oracle 11G 
+- TDD
+- Refactoring 
+- Arduino
+- NodeJs
+- DML e DDL do SQL Server 
+- Treinamento
+- Parametrização
+- Implantação de novos processos  
+- Ruby
+- Rails
+- SAP
+- TOTVS RM
+- ABAP
+
+Experiência Profissional
+==========================
+- Analista de Sistemas e DBA com ucesso em Suporte a módulos do ERP TOTVS RM , na criação e manutenção de rotinas no SQL Server 2008 R2 e Relatórios com o Oracle 11G.
+- Consultor e DBA com dois anos de experiência em suporte, manutenção e implantação de rotinas no ERP. Criação e manutenção de relatórios, planilhas e cubos. Responsável pelo desenvolvimento de procedimentos, funções, gatilhos, visões, trabalhos agendados e tabelas no SQL Server em muitos projetos envolvendo diferentes módulos do ERP.
+- Habilidade comprovada em buscar soluções inteligentes, através da criação de regras de negócios que aperfeiçoem o processo e sua manutenibilidade. Sempre em busca de novas tecnologias e maneiras mais eficientes e sustentáveis de se fazer mais com menos sem perder a qualidade.
+
+**Akta Consultoria, Consultor TOTVS RM Pleno e DBA. Projetos:**
+
+- ￼￼Padronização, criação e manutenção de relatórios, planilhas e cubos com informações de todos os módulos do
+￼ERP TOTVS RM, criação de toda a estrutura de banco de dados dos projetos desenvolvidos pela Akta,
+￼atualização de versão e migração de base do ERP TOTVS RM e projetos de acerto de informações nas tabelas
+￼do banco de dados.
+- Criação de Cubos para controle orçamentário.
+- Migração de Versão do ERP TOTVS RM 11.40 para a versão 11.52.
+- Rotinas de manutenção de base so SQL SERVER 2008 R2
+- Criação de sistema e processo de workflow para controle orçamentário.
+
+
+**￼Sá Cavalcante, Assistente de Sistemas. Projetos:**
+
+- ￼Suporte mais frequente aos módulos: RM Nucleus, RM Solum, Portal RM, RM Agilis, RM Saldus e RM Fluxus.
+￼Contudo, conforme a demanda também dava suporte aos módulos: RM Liber, RM Labore, RM Chronus e RM
+￼Bonum. Padronização, criação e manutenção de relatórios, planilhas e cubos com informações de todos os
+￼módulos citados anteriormente menos o RM Bonum. Criação de um aplicativo em PHP, utilizando a ferramenta
+￼RAID “Scriptcase”, para inserção, edição e cancelamento de ordens de compra pela web. Criação e manutenção de relatórios de layouts de integração bancária e de outros tipos. Disponibilização de uma área web para cotação de matérias e serviços através do Portal RM.
+Projetos:
+
+- Implantação de solução financeira Nexxera para integração Bancária.
+- Participação no desenvolvimento de planilhas para apuração de balancetes contábeis.
+- Participação na implantação do aplicativo GED TOTVS ECM.
+- Resolução de problemas com o controle orçamentário.
+- Participação na unificação das tabelas de classificação financeira e de natureza orçamentária.
+- Criação de sistema e processo de workflow para controle orçamentário.
+
+Experiência Adicionas
+==
+- Feixe Tecnologia,Estagiário(2010/08 a 2010/11), Assistente de TI(2010/11 a 2011/06).
+- Etoilé Consultoria(Freela), Projetos: lefooding.com, socitrip.com e brtrax.com.
+- [Mob4Biz], Co-Fundador
+
+Educação e Treinamentos
+==
+- ￼Uniersidade Veiga de Almeida, Tijuca/RJ. ￼Bacharel em Ciências da Computação.
+- Programa de Certificação TOTVS: Criação de Planilhas e Relatórios, 2011. Programa de Certificação TOTVS Criação de Cubos, 2011.
+- Curso Ruby on Rails, Caelum e Plataformatec Online, 2013 .
+- Trainning Education : SAP R3 Funcional(MM,SD,FI,SD,CO,PP), 2013. 
+- Trainning Education : ABAP Foundations, 2013.
+- Code Squad : TDD com Rspec e VCR, 2013.
+- Cultura Inglesa : Nível Master completo, 2011.
+
+[Mob4biz]:http://www.mob4biz.com.br/
